@@ -1,0 +1,8 @@
+{
+	"appId": "com.uniclub.app",
+	"appName": "UniClub",
+	"webDir": "dist",
+	"server": {
+		"cleartext": true
+	}
+}
