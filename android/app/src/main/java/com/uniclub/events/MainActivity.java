@@ -1,4 +1,4 @@
-package com.uniclub.app;
+package com.uniclub.events;
 
 import com.getcapacitor.BridgeActivity;
 

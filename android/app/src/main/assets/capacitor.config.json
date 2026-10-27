@@ -1,8 +1,8 @@
 {
-	"appId": "com.uniclub.app",
+	"appId": "com.uniclub.events",
 	"appName": "UniClub",
 	"webDir": "dist",
-	"server": {
-		"cleartext": true
+	"android": {
+		"allowMixedContent": true
 	}
 }
